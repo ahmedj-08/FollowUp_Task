@@ -16,5 +16,4 @@ namespace Commander.Dtos
             public string Platform { get; set; }
         }
 
-   
 }
